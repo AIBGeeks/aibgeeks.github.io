@@ -25,12 +25,8 @@ markdown: kramdown
 plugins:
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://github.com/AIBGeeks
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
