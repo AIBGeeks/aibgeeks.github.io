@@ -23,6 +23,11 @@ copyright: 'Copyright &copy; 2019 AIBottle. All Rights Reserved.'
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-paginate
+
+# 分页
+paginate: 5
+
 
 social:
   - title: github
