@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "极简力"
+layout: blog
+title:  "K2刷 PandoraBox"
 date:   2019-01-18 19:56:03 +0800
 categories: blog
 ---

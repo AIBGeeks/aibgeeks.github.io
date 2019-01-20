@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: blog
 title:  "jekyll + Github 搭建博客"
 date:   2019-01-19 08:53:30 +0800
 categories: blog
-img: dog.png
+img: https://jekyllrb.com/img/octojekyll.png
 tag: tech
 ---
 

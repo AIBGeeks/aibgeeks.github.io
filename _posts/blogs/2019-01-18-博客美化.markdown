@@ -1,16 +1,20 @@
 ---
-layout: default
+layout: blog
 title:  "博客美化"
 date:   2019-01-18 19:55:03 +0800
 categories: blog
 ---
 1. 增加点击事件，跳转正文
+利用 post.url 获取当前文章的 url，利用 a 标签跳转即可
+
 2. 毛玻璃效果
 [CSS技巧收集——毛玻璃效果](https://www.cnblogs.com/ghost-xyx/p/5677168.html)
+本想导航栏实时实现高斯模糊效果，但无法实现，只能对静态的实现
+
 3. 图片加载速度优化？
 4. 博客分页建立
 5. markdown
-6. 图片限制最大高度
+
 7. 介绍显示3行，然后...
 8. 更多按钮
 9. 段落首行缩进
@@ -18,3 +22,4 @@ categories: blog
 11. 图片逐渐加载，背景色
 12. 导航栏背景毛玻璃
 
+https://justjavac.com/jekyll/2011/09/24/jekyll-more.html
