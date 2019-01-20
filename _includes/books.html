@@ -1,6 +1,6 @@
 <section id="books">
 <!-- Page Content -->
-{% for post in site.categories.book offset:3 limit:3 %}
+{% for post in site.categories.book limit:3 %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
